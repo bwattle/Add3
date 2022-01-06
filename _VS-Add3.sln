@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py", "Py\Py.pyproj", "{58DF04CC-AC8E-40AB-A6E5-00FF983EEE65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pas", "Pas", "{0B7602C8-527C-428D-A0F0-40174E341DF5}"
+	ProjectSection(SolutionItems) = preProject
+		Pas\Add3-master.pas = Pas\Add3-master.pas
+		Pas\Add3-v101-concat.pas = Pas\Add3-v101-concat.pas
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VBA", "VBA", "{63D5B296-5299-4FB7-8AFC-16A7E7A28BEC}"
+	ProjectSection(SolutionItems) = preProject
+		VBA\Add3acc-master.accdb = VBA\Add3acc-master.accdb
+		VBA\Add3acc-v101-concat.accdb = VBA\Add3acc-v101-concat.accdb
+		VBA\Add3exc-master.xlsm = VBA\Add3exc-master.xlsm
+		VBA\Add3exc-v101-concat.xlsm = VBA\Add3exc-v101-concat.xlsm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilesInRoot", "FilesInRoot", "{221867AF-C48E-4D66-AC42-D0BE5259477C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		index.html = index.html
+		README.md = README.md
+		Web.config = Web.config
+		zzzz.gitattributes = zzzz.gitattributes
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-master", "VB-master\VB-Add3-master.vbproj", "{97E20959-28B9-4430-BDF9-16BE4730FDDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{DC39BFD1-EABE-4BAB-B7DC-1DDA3B5D4AB6}"
+	ProjectSection(SolutionItems) = preProject
+		JS\Add3-master.html = JS\Add3-master.html
+		JS\Add3-v101-concat.html = JS\Add3-v101-concat.html
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-v101concat", "VB-v101-Concat\VB-Add3-v101concat.vbproj", "{8E265133-BCD0-4236-8C50-1894A3E0B3CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{77700300-CD40-4D34-B1E8-68D54067CC56}"
+	ProjectSection(SolutionItems) = preProject
+		images\clip_image001.png = images\clip_image001.png
+		images\clip_image002.png = images\clip_image002.png
+		images\clip_image003.png = images\clip_image003.png
+		images\ssc_smalllogo-60x81.ico = images\ssc_smalllogo-60x81.ico
+		images\SSC_SmallLogo-60x81.png = images\SSC_SmallLogo-60x81.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DF04CC-AC8E-40AB-A6E5-00FF983EEE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF04CC-AC8E-40AB-A6E5-00FF983EEE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E20959-28B9-4430-BDF9-16BE4730FDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E20959-28B9-4430-BDF9-16BE4730FDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E20959-28B9-4430-BDF9-16BE4730FDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E20959-28B9-4430-BDF9-16BE4730FDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E265133-BCD0-4236-8C50-1894A3E0B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DCDC9D-627C-43EF-B9E0-4427B5BEDBDF}
+	EndGlobalSection
+EndGlobal

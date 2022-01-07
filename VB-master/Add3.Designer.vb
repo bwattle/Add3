@@ -137,7 +137,7 @@ Partial Class Add3
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "Add3"
-        Me.Text = "v101 Add3 Concatenates."
+        Me.Text = "v1.01 Add3 Concatenates."
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

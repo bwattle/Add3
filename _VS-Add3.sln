@@ -21,11 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VBA", "VBA", "{63D5B296-529
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FilesInRoot", "FilesInRoot", "{221867AF-C48E-4D66-AC42-D0BE5259477C}"
 	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
 		.gitignore = .gitignore
 		index.html = index.html
 		README.md = README.md
 		Web.config = Web.config
-		zzzz.gitattributes = zzzz.gitattributes
 	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-master", "VB-master\VB-Add3-master.vbproj", "{97E20959-28B9-4430-BDF9-16BE4730FDDC}"
@@ -36,8 +36,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{DC39BFD1-EABE-
 		JS\Add3-v101-concat.html = JS\Add3-v101-concat.html
 	EndProjectSection
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-Add3-v101concat", "VB-v101-Concat\VB-Add3-v101concat.vbproj", "{8E265133-BCD0-4236-8C50-1894A3E0B3CC}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{77700300-CD40-4D34-B1E8-68D54067CC56}"
 	ProjectSection(SolutionItems) = preProject
 		images\clip_image001.png = images\clip_image001.png
@@ -46,6 +44,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{777003
 		images\ssc_smalllogo-60x81.ico = images\ssc_smalllogo-60x81.ico
 		images\SSC_SmallLogo-60x81.png = images\SSC_SmallLogo-60x81.png
 	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-v101-concat", "VB-v101-concat\VB-v101-concat.vbproj", "{8E265133-BCD0-4236-8C50-1894A3E0B3CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
